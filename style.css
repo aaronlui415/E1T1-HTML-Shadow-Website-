@@ -1,0 +1,185 @@
+body {
+    background-color:#fff;
+    margin: 20px;
+    display: grid;
+}
+
+.navbar{
+    display: grid;
+    grid-template-columns: repeat(3, 9%);
+    justify-items: center;
+    justify-content: center;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+  font-family: Arial;
+}
+
+.homebanner{
+    display: grid;
+    height: 300px;
+    margin-top: 25px;
+    margin-bottom: 30px;
+    background-color: #9532f8
+
+}
+
+.aboutbanner{
+    display: grid;
+    height: 300px;
+    margin-top: 25px;
+    margin-bottom: 30px;
+    background-color: #9532f8
+}
+
+
+.contactbanner{
+    display: grid;
+    height: 300px;
+    margin-top: 25px;
+    margin-bottom: 30px;
+    background-color: #9532f8
+}
+
+.bannertext {
+    display: grid;
+    height: 210px;
+    color: white;
+    text-align: center;
+    align-items: center;
+    font-size: 35px;
+    font-family: Arial;
+}
+
+
+.contactpagestuff {
+    display: grid;
+    width: 100%;
+    justify-items: center;
+    justify-content: center;
+    grid-template-columns: repeat(2, 30%);
+    grid-template-rows: repeat(5, 20%);
+}
+.contactform {
+    display: grid;
+    width: 100%;
+    justify-self: center;
+    justify-items: center;
+    justify-content: center;
+}
+button{
+    margin-top: 25px;
+}
+
+.hotline {
+text-align: center;
+font-family: Arial;
+  
+}
+
+.bigtext{
+   font-family: Arial;
+}
+.smalltext{
+  color: #808080;
+   font-family: Arial;
+}
+
+.quote {
+  text-align: center;
+  font-family: Arial;
+}
+
+
+.invtitles {
+  font-family: Arial;
+  color: #9532f8;
+  width: 425px;
+  
+  
+}
+
+.invtexts{
+  font-family: Arial;
+  color: #000000;
+ 
+}
+
+.logo{
+  font-family: Arial;
+  color: #9532f8;
+}
+
+.invtexts_text{
+  font-family: Arial;
+  line-height: 2.3 ;
+  width: 525px;
+  text-align:left;
+  font-family: Arial;
+  color: #000000;
+  width: 425px;
+  top: 1010px;
+  right: 45px;
+  
+}
+
+< --.content{ 
+display: flex;
+ justify-content: space-between;
+  align-items: left;
+  
+}
+
+.group_goals {
+  text-align:left;
+  color:#FFFFF;
+  
+}
+
+.program_exercises{
+  line-height: 1.85 ;
+}
+
+.goals_text {
+  line-height: 1.65 ;
+}
+
+.program_goals{
+   line-height: 2.16 ;
+}
+
+.what{
+  font-family: Arial;
+  line-height: 3.2 ;
+  width: 525px;
+  text-align:left;
+  font-family: Arial;
+  color: #000000;
+  width: 425px;
+  top: 1010px;
+  right: 45px;
+}
+
+.our_goal{
+  font-family: Arial;
+  line-height: 2.3 ;
+  width: 525px;
+  text-align:left;
+  font-family: Arial;
+  color: #000000;
+  width: 425px;
+  top: 1010px;
+  right: 45px;
+}
+
+.here{
+  font-family: Arial;
+  line-height: 1.95 ;
+  width: 525px;
+  text-align:left;
+  font-family: Arial;
+  color: #000000;
+  width: 425px;
+  top: 1010px;
+  right: 45px;
+}
